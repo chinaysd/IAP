@@ -1,0 +1,8 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\system.obj",
+".\Objects\bsp_led.obj",
+".\Objects\eeprom.obj",
+".\Objects\TimeOut.obj" 
+TO ".\Objects\IAP" 
+PRINT(".\Listings\IAP.m51") RAMSIZE(256) 

@@ -1,0 +1,1 @@
+"..\bsp\eeprom.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(..\bsp;..\lib;..\TimeOut;..\user) DEBUG OBJECTEXTEND PRINT(.\Listings\eeprom.lst) OBJECT(.\Objects\eeprom.obj)
